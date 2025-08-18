@@ -68,11 +68,6 @@ Com base nos resultados, as seguintes estratégias de negócio são sugeridas:
 
 ---
 
-### Autor
 
-**Jhonatan**
-
-* **LinkedIn:** `[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI/)`
-* **Email:** `SEU-EMAIL@exemplo.com`
 
 *(**Instrução:** Edite os links acima com seu perfil do LinkedIn e seu e-mail para que funcionem corretamente.)*
