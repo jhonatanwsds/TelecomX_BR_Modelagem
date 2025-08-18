@@ -35,15 +35,17 @@ O modelo **Random Forest**, que apresentou o melhor desempenho, apontou o **temp
     * Contratos de **1 ou 2 anos**.
     * Assinatura de serviços de **Suporte Técnico** e **Segurança Online**.
 
-*Para visualizar o gráfico com a importância de cada variável, adicione a imagem gerada pelo notebook aqui:*
-`![Importância das Variáveis](caminho/para/seu/grafico_importancia.png)`
+*Gráfico com a importância de cada variável gerada pelo modelo Random Forest:*
+
+![Importância das Variáveis](var_import_RFor.png)
 
 #### Desempenho do Modelo Preditivo
 
 Foram treinados e avaliados dois modelos: Regressão Logística (como baseline) e Random Forest. O modelo **Random Forest** foi superior em todas as métricas relevantes, com destaque para o **recall de 84%**, o que significa que ele foi capaz de **identificar corretamente 84 de cada 100 clientes que realmente iriam evadir**.
 
-*Para visualizar a matriz de confusão do modelo Random Forest, adicione a imagem gerada aqui:*
-`![Matriz de Confusão do Random Forest](caminho/para/seu/grafico_matriz.png)`
+*Matriz de confusão do modelo Random Forest, visualizando os acertos e erros:*
+
+![Matriz de Confusão do Random Forest](matrix_conf_RFor.png)
 
 ---
 
@@ -67,7 +69,3 @@ Com base nos resultados, as seguintes estratégias de negócio são sugeridas:
 3.  Abra o notebook `TelecomX_BR_Modelagem.ipynb` e execute as células em ordem.
 
 ---
-
-
-
-*(**Instrução:** Edite os links acima com seu perfil do LinkedIn e seu e-mail para que funcionem corretamente.)*
